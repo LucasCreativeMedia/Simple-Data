@@ -21,10 +21,6 @@ $totalHours = "Your Total Hours Are: " . $yourHours;
 $totalBillableTime = "Your Total Billable Time Will Be: " . $QuarterHours;
 
 //DB Connection
-$servername = "localhost:3306";
-$username = "lucast95";
-$password = "I_love_Jesus";
-$dbname = "tlprojecttasks";
 
 try {
     $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
