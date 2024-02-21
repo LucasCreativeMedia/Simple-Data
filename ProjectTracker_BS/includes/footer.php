@@ -38,7 +38,7 @@
                 <li class="nav-item"><a href="index.php" class="nav-link px-2 text-muted">Home</a></li>
                 <li class="nav-item"><a href="about.php" class="nav-link px-2 text-muted">About</a></li>
             </ul>
-            <p class="text-center text-muted">&copy; 2023 Tim Lucas</p>
+            <p class="text-center text-muted">&copy; 2024 Tim Lucas</p>
         </footer>
     </div>
 
